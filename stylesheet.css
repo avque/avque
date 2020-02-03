@@ -1,7 +1,7 @@
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
-*/
+
   video {
     position: absolute;
     top: 25%;
@@ -12,20 +12,11 @@
     padding: 10px;
     max-width: 50%;
     max-height: 50%;
-    }
+    }*/
 @media (min-width: 1281px) {
   
   //CSS
-  video {
-    position: absolute;
-    top: 25%;
-    left: 25%;
-    transform: translate(-50%, -50%)
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    max-width: 50%;
-    max-height: 50%;
+  background-color: lightblue;
 }
 }
 
@@ -37,7 +28,7 @@
 @media (min-width: 1025px) and (max-width: 1280px) {
   
   //CSS
-  
+  background-color: red;
 }
 
 /* 
@@ -48,16 +39,7 @@
 @media (min-width: 768px) and (max-width: 1024px) {
   
   //CSS
-  video {
-    position: absolute;
-    top: 25%;
-    left: 25%;
-    transform: translate(-50%, -50%)
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    max-width: 50%;
-    max-height: 50%;
+  background-color: green;
 }
 }
 
@@ -69,17 +51,7 @@
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   
   //CSS
-  video {
-    position: absolute;
-    top: 25%;
-    left: 25%;
-    transform: translate(-50%, -50%)
-    margin: auto;
-    width: 50%;
-    padding: 10px;
-    max-width: 50%;
-    max-height: 50%;
-    }
+background-color: orange;
 }
 
 /* 
@@ -90,7 +62,7 @@
 @media (min-width: 481px) and (max-width: 767px) {
   
   //CSS
-  video {
+  /*video {
     position: absolute;
     height: 200px
     top: 50%;
@@ -100,7 +72,8 @@
     width: 100%;
     padding: 10px;
     max-width: 100%;
-    max-height: 70%;
+    max-height: 70%;*/
+  background-color: black;
 }
 }
 
@@ -113,7 +86,7 @@
   
   //CSS
   video {
-    position: absolute;
+    /*position: absolute;
     top: 50%;
     left: 0%;
     transform: translate(-50%, -50%)
@@ -121,6 +94,7 @@
     width: 100%;
     padding: 10px;
     max-width: 100%;
-    max-height: 70%;
+    max-height: 70%;*/
+    background-color: white;
 }
 
