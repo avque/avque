@@ -1,4 +1,4 @@
-//CSS
+
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
@@ -19,7 +19,7 @@ body {
 }
 @media (min-width: 1281px) {
   
-  //CSS
+  
   body {
     background-color: lightblue;}
 }
@@ -32,7 +32,7 @@ body {
 
 @media (min-width: 1025px) and (max-width: 1280px) {
   
-  //CSS
+  
   body {
     background-color: red;}
 }
@@ -44,7 +44,7 @@ body {
 
 @media (min-width: 768px) and (max-width: 1024px) {
   
-  //CSS
+  
   body {
     background-color: green;}
 }
@@ -57,7 +57,7 @@ body {
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
   
-  //CSS
+  
   body {
     background-color: orange;}
 }
@@ -69,7 +69,7 @@ body {
 
 @media (min-width: 481px) and (max-width: 767px) {
   
-  //CSS
+  
   /*video {
     position: absolute;
     height: 200px
@@ -93,7 +93,7 @@ body {
 
 @media (min-width: 320px) and (max-width: 480px) {
   
-  //CSS
+  
   video {
     /*position: absolute;
     top: 50%;
