@@ -1,7 +1,8 @@
 video {
-    margin: 0;
-    position: absolute;
-    top: 50%;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
     max-width: 40%;
     max-height: 40%;
 
