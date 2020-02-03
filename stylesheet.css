@@ -64,7 +64,6 @@ body {
   
     video {
     position: absolute;
-    height: 200px;
     top: 50%;
     left: 0%;
     transform: translate(-50%, -50%)
@@ -87,7 +86,6 @@ body {
   
   video {
     position: absolute;
-    height: 200px;
     top: 50%;
     left: 0%;
     transform: translate(-50%, -50%)
@@ -110,7 +108,6 @@ body {
   
   video {
     position: absolute;
-    height: 200px:
     top: 50%;
     left: 0%;
     transform: translate(-50%, -50%)
