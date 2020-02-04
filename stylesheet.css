@@ -1,3 +1,6 @@
+:root {
+  --height: height;
+}
 
 /* 
   ##Device = Desktops
@@ -64,7 +67,7 @@ body {
   
     video {
       position: absolute;
-      top: calc(50%-height/2);
+      top: calc(50%-var(--height)/2);
       left: 0%;
       transform: translate(-50%, -50%)
       margin: auto;
