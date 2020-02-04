@@ -2,19 +2,17 @@
 
 /* 
   ##Device = Desktops
-  ##Screen = 1281px to higher resolution desktops
-
+  ##Screen = 1281px to higher resolution desktops*/
   video {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
-    padding: 10px;
+    padding: 0px;
     max-width: 50%;
-    max-height: 50%;
-    }*/
+
 header {
   
 }
@@ -35,7 +33,6 @@ body {
     width: 50%;
     padding: 0px;
     max-width: 50%;
-    max-height: 50%;}
   /*body {
     background-color: lightblue;}*/
 }
@@ -57,7 +54,6 @@ body {
     width: 50%;
     padding: 0px;
     max-width: 50%;
-    max-height: 50%;}
   /*body {
     background-color: red;}*/
 }
