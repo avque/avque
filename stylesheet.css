@@ -1,6 +1,4 @@
-:root {
-  --height: height;
-}
+
 
 /* 
   ##Device = Desktops
@@ -67,6 +65,7 @@ body {
   
     video {
       position: absolute;
+      -webkit-transform: translateY(-50%)
       top: 50%;
       left: 0%;
       margin: auto;
