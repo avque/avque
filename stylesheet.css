@@ -6,8 +6,8 @@
 
   video {
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%)
     margin: auto;
     width: 50%;
@@ -22,8 +22,8 @@ body {
   
   video {
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
@@ -44,8 +44,8 @@ body {
   
   video {
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 50%;
@@ -65,9 +65,9 @@ body {
   
     video {
       position: absolute;
-      transform: translate(-50%, -50%);
+      transform: translateY(-50%);
       top: 50%;
-      left: 0%;
+      left: 50%;
       margin: auto;
       width: 100%;
       padding: 10px;
@@ -88,7 +88,7 @@ body {
   video {
     position: absolute;
     top: 50%;
-    left: 0%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 100%;
@@ -110,7 +110,7 @@ body {
   video {
     position: absolute;
     top: 50%;
-    left: 0%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 100%;
@@ -133,7 +133,7 @@ body {
   video {
     position: absolute;
     top: 50%;
-    left: 0%;
+    left: 50%;
     transform: translate(-50%, -50%);
     margin: auto;
     width: 100%;
